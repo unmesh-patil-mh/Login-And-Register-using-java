@@ -64,6 +64,7 @@ The system connects Python with MySQL using JDBC connectivity for performing dat
 2. 🔐 Implement OTP verification
 3. 🌐 Convert into web-based application (Flask/Django)
 4. 🛡️ Add session management
+5. 📧 Add email verification
 
 ---
 ## ⚖️ Disclaimer
@@ -73,4 +74,4 @@ This project is created for learning and academic purposes only.
 Unmesh Patil
 GitHub: https://github.com/unmesh-patil-mh
 
-📧 Add email verification
+
