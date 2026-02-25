@@ -22,7 +22,7 @@ The system connects Python with MySQL using JDBC connectivity for performing dat
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python  
+- 🐍 Java 
 - 🗄️ MySQL  
 - 🔌 JDBC (Java Database Connectivity)  
 - SQL  
@@ -56,7 +56,7 @@ The system connects Python with MySQL using JDBC connectivity for performing dat
 4. Work with JDBC connections
 5. Perform CRUD operations
 6. Handle exceptions and validation
-7. Integrate Python with MySQL
+7. Integrate Java with MySQL
 
 ---
 ## 🔮 Future Improvements
