@@ -10,7 +10,7 @@ public class UserDao {
 		java.sql.Connection con=null;
 		try {
 			Class.forName("com.mysql.cj.jdbc.Driver");
-			con=DriverManager.getConnection("jdbc:Mysql://localhost:3306/LoginEx","root","Unmesh");
+			con=DriverManager.getConnection("jdbc:Mysql://localhost:3306/Repository_name","username","Password");
 			System.out.println("Connection Created Successfully....");
 		}catch(Exception e){
 			e.printStackTrace();
@@ -67,4 +67,5 @@ public class UserDao {
 		return status;
 	}
 }
+
 
